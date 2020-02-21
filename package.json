@@ -1,0 +1,6 @@
+{
+  "name": "160_intersection_of_two_linked_lists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,"scripts": { "dev": "nodemon --exec python3 main.py ./main.py" }}
